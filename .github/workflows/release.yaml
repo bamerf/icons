@@ -51,7 +51,7 @@ jobs:
 
       # Check types
       - name: Check types
-        run: yarn types:check && yarn styles:remove-defs
+        run: yarn types:check
 
       # Build a package
       - name: Build
