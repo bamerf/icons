@@ -10,7 +10,8 @@
     "build-storybook": "build-storybook",
     "types:check": "tsc --project tsconfig.json --noEmit",
     "package:build": "rm -fr ./dist && rollup -c",
-    "package:postbuild": "node ./scripts/postbuild.js"
+    "package:postbuild": "node ./scripts/postbuild.js",
+    "package:release": "semantic-release"
   },
   "author": "Bamdad Erfanian",
   "license": "ISC",
