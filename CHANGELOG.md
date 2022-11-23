@@ -1,3 +1,10 @@
+## [0.1.3](https://github.com/bamerf/icons/compare/v0.1.2...v0.1.3) (2022-11-23)
+
+
+### Performance Improvements
+
+* **icon:** test release ([606deff](https://github.com/bamerf/icons/commit/606deff4dab32053dc814db98f4171a0552d4f3e))
+
 ## [0.1.2](https://github.com/bamerf/icons/compare/v0.1.1...v0.1.2) (2022-11-23)
 
 
