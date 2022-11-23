@@ -5,6 +5,12 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/bamerf"
   },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
@@ -55,8 +61,5 @@
     "ttypescript": "^1.5.13",
     "typescript": "^4.4.4"
   },
-  "files": [
-    "dist"
-  ],
   "dependencies": {}
 }
