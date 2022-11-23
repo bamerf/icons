@@ -1,4 +1,3 @@
-import React from 'react';
 import { forwardRef } from 'react';
 import type { CountryProps } from '../types';
 

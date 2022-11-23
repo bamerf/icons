@@ -1,4 +1,3 @@
-import React from 'react';
 import type { FC } from 'react';
 import type { BaseIconProps, CountryIconProps } from './types';
 import * as BaseIcons from './base';

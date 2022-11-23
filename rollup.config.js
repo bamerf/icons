@@ -30,14 +30,7 @@ const plugins = [
     include: 'src',
     configFile: './.babelrc',
     extensions: [...DEFAULT_EXTENSIONS, '.ts', '.tsx'],
-    exclude: [
-      /node_modules/,
-      '**/*.stories.tsx',
-      '**/*.mdx',
-      '**/*.d.ts',
-      '**/types.ts',
-      'documentation/**',
-    ],
+    exclude: [/node_modules/, '**/*.d.ts', '**/types.ts'],
   }),
   typescript({
     typescript: require('ttypescript'),
@@ -51,16 +44,8 @@ const plugins = [
         rootDir: 'src',
         plugins: [{ transform: '@zerollup/ts-transform-paths' }],
       },
-      include: ['next-env.d.ts', '**/**.ts', '**/**.tsx'],
-      exclude: [
-        'node_modules',
-        '**/**.stories.tsx',
-        '**/**.mdx',
-        'src/documentation',
-        'src/components/Placeholder',
-        'build',
-        'src/**/__fixtures',
-      ],
+      include: ['**/**.ts', '**/**.tsx'],
+      exclude: ['node_modules', 'dist', '**/**.stories.tsx'],
     },
   }),
   svg(),
@@ -121,4 +106,4 @@ const icon_types = {
  * @type {import('rollup').RollupOptions}
  */
 
-export default [icon_esm, icon_types];
+export default [icon_esm];

@@ -1,4 +1,3 @@
-import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import { BaseIcon, CountryIcon } from './Icon';
 import * as BaseIconsNames from './base';
