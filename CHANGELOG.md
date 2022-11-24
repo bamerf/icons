@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/bamerf/icons/compare/v0.1.3...v0.1.4) (2022-11-24)
+
+
+### Performance Improvements
+
+* **icon:** add more icons and types ([1e73316](https://github.com/bamerf/icons/commit/1e73316b7f1e0643696459339e2f9b9ada29c944))
+
 ## [0.1.3](https://github.com/bamerf/icons/compare/v0.1.2...v0.1.3) (2022-11-23)
 
 
