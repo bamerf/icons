@@ -1,7 +1,7 @@
 import { forwardRef } from 'react';
-import type { CountryProps } from '../types';
+import type { CommonProps } from '../types';
 
-const AF = forwardRef<SVGSVGElement, CountryProps>(({ size = 24 }, ref) => (
+const AF = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
   <svg
     ref={ref}
     width={size}

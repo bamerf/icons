@@ -1,7 +1,16 @@
 import { ComponentStory, ComponentMeta } from '@storybook/react';
-import { BaseIcon, CountryIcon } from './Icon';
+import {
+  BaseIcon,
+  CountryIcon,
+  BrowserIcon,
+  SocialIcon,
+  MessengerIcon,
+} from './Icon';
 import * as BaseIconsNames from './base';
 import * as CountryIconNames from './country';
+import * as BrowserIconNames from './browser';
+import * as SocialIconNames from './social';
+import * as MessengerIconNames from './messenger';
 
 export default {
   title: 'Bamerf/Icon',
@@ -36,6 +45,54 @@ CountryIcons.args = {
 CountryIcons.argTypes = {
   name: {
     options: Object.keys(CountryIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const BrowserTemplate: ComponentStory<typeof BrowserIcon> = (args) => (
+  <BrowserIcon {...args} />
+);
+
+export const BrowserIcons = BrowserTemplate.bind({});
+BrowserIcons.args = {
+  name: 'FireFox',
+};
+
+BrowserIcons.argTypes = {
+  name: {
+    options: Object.keys(BrowserIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const SocialTemplate: ComponentStory<typeof SocialIcon> = (args) => (
+  <SocialIcon {...args} />
+);
+
+export const SocialIcons = SocialTemplate.bind({});
+SocialIcons.args = {
+  name: 'Facebook',
+};
+
+SocialIcons.argTypes = {
+  name: {
+    options: Object.keys(SocialIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const MessengerTemplate: ComponentStory<typeof MessengerIcon> = (args) => (
+  <MessengerIcon {...args} />
+);
+
+export const MessengerIcons = MessengerTemplate.bind({});
+MessengerIcons.args = {
+  name: 'Telegram',
+};
+
+MessengerIcons.argTypes = {
+  name: {
+    options: Object.keys(MessengerIconNames),
     control: { type: 'select' },
   },
 };

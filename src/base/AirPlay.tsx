@@ -1,7 +1,7 @@
 import { forwardRef } from 'react';
-import type { CommonProps } from '../types';
+import type { BaseIconProps } from '../types';
 
-const AirPlay = forwardRef<SVGSVGElement, CommonProps>(
+const AirPlay = forwardRef<SVGSVGElement, BaseIconProps>(
   ({ color = 'currentColor', size = 24 }, ref) => (
     <svg
       ref={ref}
