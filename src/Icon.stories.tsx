@@ -5,12 +5,28 @@ import {
   BrowserIcon,
   SocialIcon,
   MessengerIcon,
+  CodingIcon,
+  ProductivityIcon,
+  DesignIcon,
+  OSIcon,
+  VideoIcon,
+  MusicIcon,
+  FinanceIcon,
+  OtherIcon,
 } from './Icon';
 import * as BaseIconsNames from './base';
 import * as CountryIconNames from './country';
 import * as BrowserIconNames from './browser';
 import * as SocialIconNames from './social';
 import * as MessengerIconNames from './messenger';
+import * as CodingIconNames from './coding';
+import * as ProductivityIconNames from './productivity';
+import * as DesignIconNames from './design';
+import * as OSIconNames from './os';
+import * as VideoIconNames from './video';
+import * as MusicIconNames from './music';
+import * as FinanceIconNames from './finance';
+import * as OtherIconNames from './other';
 
 export default {
   title: 'Bamerf/Icon',
@@ -99,6 +115,142 @@ MessengerIcons.args = {
 MessengerIcons.argTypes = {
   name: {
     options: Object.keys(MessengerIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const CodingTemplate: ComponentStory<typeof CodingIcon> = (args) => (
+  <CodingIcon {...args} />
+);
+
+export const CodingIcons = CodingTemplate.bind({});
+CodingIcons.args = {
+  name: 'Git',
+  size: 64,
+};
+
+CodingIcons.argTypes = {
+  name: {
+    options: Object.keys(CodingIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const ProductivityTemplate: ComponentStory<typeof ProductivityIcon> = (
+  args
+) => <ProductivityIcon {...args} />;
+
+export const ProductivityIcons = ProductivityTemplate.bind({});
+ProductivityIcons.args = {
+  name: 'GoogleDrive',
+  size: 64,
+};
+
+ProductivityIcons.argTypes = {
+  name: {
+    options: Object.keys(ProductivityIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const DesignTemplate: ComponentStory<typeof DesignIcon> = (args) => (
+  <DesignIcon {...args} />
+);
+
+export const DesignIcons = DesignTemplate.bind({});
+DesignIcons.args = {
+  name: 'Dribble',
+  size: 64,
+};
+
+DesignIcons.argTypes = {
+  name: {
+    options: Object.keys(DesignIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const OSTemplate: ComponentStory<typeof OSIcon> = (args) => (
+  <OSIcon {...args} />
+);
+
+export const OSIcons = OSTemplate.bind({});
+OSIcons.args = {
+  name: 'Ubuntu',
+  size: 64,
+};
+
+OSIcons.argTypes = {
+  name: {
+    options: Object.keys(OSIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const VideoTemplate: ComponentStory<typeof VideoIcon> = (args) => (
+  <VideoIcon {...args} />
+);
+
+export const VideoIcons = VideoTemplate.bind({});
+VideoIcons.args = {
+  name: 'Youtube',
+  size: 64,
+};
+
+VideoIcons.argTypes = {
+  name: {
+    options: Object.keys(VideoIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const MusicTemplate: ComponentStory<typeof MusicIcon> = (args) => (
+  <MusicIcon {...args} />
+);
+
+export const MusicIcons = MusicTemplate.bind({});
+MusicIcons.args = {
+  name: 'SoundCloud',
+  size: 64,
+};
+
+MusicIcons.argTypes = {
+  name: {
+    options: Object.keys(MusicIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const FinanceTemplate: ComponentStory<typeof FinanceIcon> = (args) => (
+  <FinanceIcon {...args} />
+);
+
+export const FinanceIcons = FinanceTemplate.bind({});
+FinanceIcons.args = {
+  name: 'PayPal',
+  size: 64,
+};
+
+FinanceIcons.argTypes = {
+  name: {
+    options: Object.keys(FinanceIconNames),
+    control: { type: 'select' },
+  },
+};
+
+const OtherTemplate: ComponentStory<typeof OtherIcon> = (args) => (
+  <OtherIcon {...args} />
+);
+
+export const OtherIcons = OtherTemplate.bind({});
+OtherIcons.args = {
+  name: 'PlayStation',
+  size: 64,
+};
+
+OtherIcons.argTypes = {
+  name: {
+    options: Object.keys(OtherIconNames),
     control: { type: 'select' },
   },
 };
