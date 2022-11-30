@@ -24,6 +24,8 @@ const BaseTemplate: ComponentStory<typeof BaseIcon> = (args) => (
 export const BaseIcons = BaseTemplate.bind({});
 BaseIcons.args = {
   name: 'Activity',
+  size: 64,
+  color: 'black',
 };
 
 BaseIcons.argTypes = {
@@ -40,6 +42,7 @@ const CountryTemplate: ComponentStory<typeof CountryIcon> = (args) => (
 export const CountryIcons = CountryTemplate.bind({});
 CountryIcons.args = {
   name: 'AF',
+  size: 64,
 };
 
 CountryIcons.argTypes = {
@@ -56,6 +59,7 @@ const BrowserTemplate: ComponentStory<typeof BrowserIcon> = (args) => (
 export const BrowserIcons = BrowserTemplate.bind({});
 BrowserIcons.args = {
   name: 'FireFox',
+  size: 64,
 };
 
 BrowserIcons.argTypes = {
@@ -72,6 +76,7 @@ const SocialTemplate: ComponentStory<typeof SocialIcon> = (args) => (
 export const SocialIcons = SocialTemplate.bind({});
 SocialIcons.args = {
   name: 'Facebook',
+  size: 64,
 };
 
 SocialIcons.argTypes = {
@@ -88,6 +93,7 @@ const MessengerTemplate: ComponentStory<typeof MessengerIcon> = (args) => (
 export const MessengerIcons = MessengerTemplate.bind({});
 MessengerIcons.args = {
   name: 'Telegram',
+  size: 64,
 };
 
 MessengerIcons.argTypes = {
