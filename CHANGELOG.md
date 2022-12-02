@@ -1,3 +1,10 @@
+## [0.1.5](https://github.com/bamerf/icons/compare/v0.1.4...v0.1.5) (2022-12-02)
+
+
+### Performance Improvements
+
+* **icon:** add more categories ([90d4358](https://github.com/bamerf/icons/commit/90d4358235d9283d8ce57ebc562082f2178fc839))
+
 ## [0.1.4](https://github.com/bamerf/icons/compare/v0.1.3...v0.1.4) (2022-11-24)
 
 
