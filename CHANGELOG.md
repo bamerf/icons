@@ -1,3 +1,10 @@
+## [0.1.7](https://github.com/bamerf/icons/compare/v0.1.6...v0.1.7) (2022-12-04)
+
+
+### Performance Improvements
+
+* **icon:** fix case sensitive issue ([e185643](https://github.com/bamerf/icons/commit/e185643d2d7f640f882d5f3b41adbad5832f1f45))
+
 ## [0.1.6](https://github.com/bamerf/icons/compare/v0.1.5...v0.1.6) (2022-12-04)
 
 
