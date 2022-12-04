@@ -67,14 +67,14 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="27.9437"
         gradientUnits="userSpaceOnUse"
       >
-        <stop offset="0.05" stop-color="#FFF44F" />
-        <stop offset="0.11" stop-color="#FFE847" />
-        <stop offset="0.22" stop-color="#FFC830" />
-        <stop offset="0.37" stop-color="#FF980E" />
-        <stop offset="0.4" stop-color="#FF8B16" />
-        <stop offset="0.46" stop-color="#FF672A" />
-        <stop offset="0.53" stop-color="#FF3647" />
-        <stop offset="0.7" stop-color="#E31587" />
+        <stop offset="0.05" stopColor="#FFF44F" />
+        <stop offset="0.11" stopColor="#FFE847" />
+        <stop offset="0.22" stopColor="#FFC830" />
+        <stop offset="0.37" stopColor="#FF980E" />
+        <stop offset="0.4" stopColor="#FF8B16" />
+        <stop offset="0.46" stopColor="#FF672A" />
+        <stop offset="0.53" stopColor="#FF3647" />
+        <stop offset="0.7" stopColor="#E31587" />
       </linearGradient>
       <radialGradient
         id="paint1_radial_4430_189350"
@@ -84,15 +84,15 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(26.0596 4.21879) scale(29.2246 29.2888)"
       >
-        <stop offset="0.13" stop-color="#FFBD4F" />
-        <stop offset="0.19" stop-color="#FFAC31" />
-        <stop offset="0.25" stop-color="#FF9D17" />
-        <stop offset="0.28" stop-color="#FF980E" />
-        <stop offset="0.4" stop-color="#FF563B" />
-        <stop offset="0.47" stop-color="#FF3750" />
-        <stop offset="0.71" stop-color="#F5156C" />
-        <stop offset="0.78" stop-color="#EB0878" />
-        <stop offset="0.86" stop-color="#E50080" />
+        <stop offset="0.13" stopColor="#FFBD4F" />
+        <stop offset="0.19" stopColor="#FFAC31" />
+        <stop offset="0.25" stopColor="#FF9D17" />
+        <stop offset="0.28" stopColor="#FF980E" />
+        <stop offset="0.4" stopColor="#FF563B" />
+        <stop offset="0.47" stopColor="#FF3750" />
+        <stop offset="0.71" stopColor="#F5156C" />
+        <stop offset="0.78" stopColor="#EB0878" />
+        <stop offset="0.86" stopColor="#E50080" />
       </radialGradient>
       <radialGradient
         id="paint2_radial_4430_189350"
@@ -102,11 +102,11 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(15.3809 16.1925) scale(29.2246 29.2888)"
       >
-        <stop offset="0.3" stop-color="#960E18" />
-        <stop offset="0.35" stop-color="#B11927" stop-opacity="0.74" />
-        <stop offset="0.43" stop-color="#DB293D" stop-opacity="0.34" />
-        <stop offset="0.5" stop-color="#F5334B" stop-opacity="0.09" />
-        <stop offset="0.53" stop-color="#FF3750" stop-opacity="0" />
+        <stop offset="0.3" stopColor="#960E18" />
+        <stop offset="0.35" stopColor="#B11927" stopOpacity="0.74" />
+        <stop offset="0.43" stopColor="#DB293D" stopOpacity="0.34" />
+        <stop offset="0.5" stopColor="#F5334B" stopOpacity="0.09" />
+        <stop offset="0.53" stopColor="#FF3750" stopOpacity="0" />
       </radialGradient>
       <radialGradient
         id="paint3_radial_4430_189350"
@@ -116,10 +116,10 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(18.904 -2.42803) scale(21.172 21.2184)"
       >
-        <stop offset="0.13" stop-color="#FFF44F" />
-        <stop offset="0.25" stop-color="#FFDC3E" />
-        <stop offset="0.51" stop-color="#FF9D12" />
-        <stop offset="0.53" stop-color="#FF980E" />
+        <stop offset="0.13" stopColor="#FFF44F" />
+        <stop offset="0.25" stopColor="#FFDC3E" />
+        <stop offset="0.51" stopColor="#FF9D12" />
+        <stop offset="0.53" stopColor="#FF980E" />
       </radialGradient>
       <radialGradient
         id="paint4_radial_4430_189350"
@@ -129,10 +129,10 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(12.1487 23.8431) scale(13.915 13.9455)"
       >
-        <stop offset="0.35" stop-color="#3A8EE6" />
-        <stop offset="0.47" stop-color="#5C79F0" />
-        <stop offset="0.67" stop-color="#9059FF" />
-        <stop offset="1" stop-color="#C139E6" />
+        <stop offset="0.35" stopColor="#3A8EE6" />
+        <stop offset="0.47" stopColor="#5C79F0" />
+        <stop offset="0.67" stopColor="#9059FF" />
+        <stop offset="1" stopColor="#C139E6" />
       </radialGradient>
       <radialGradient
         id="paint5_radial_4430_189350"
@@ -142,10 +142,10 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(15.8005 12.7116) rotate(-13.9265) scale(7.37316 8.67852)"
       >
-        <stop offset="0.21" stop-color="#9059FF" stop-opacity="0" />
-        <stop offset="0.28" stop-color="#8C4FF3" stop-opacity="0.06" />
-        <stop offset="0.75" stop-color="#7716A8" stop-opacity="0.45" />
-        <stop offset="0.97" stop-color="#6E008B" stop-opacity="0.6" />
+        <stop offset="0.21" stopColor="#9059FF" stopOpacity="0" />
+        <stop offset="0.28" stopColor="#8C4FF3" stopOpacity="0.06" />
+        <stop offset="0.75" stopColor="#7716A8" stopOpacity="0.45" />
+        <stop offset="0.97" stopColor="#6E008B" stopOpacity="0.6" />
       </radialGradient>
       <radialGradient
         id="paint6_radial_4430_189350"
@@ -155,12 +155,12 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(15.011 3.02041) scale(10.0108 10.0328)"
       >
-        <stop stop-color="#FFE226" />
-        <stop offset="0.12" stop-color="#FFDB27" />
-        <stop offset="0.3" stop-color="#FFC82A" />
-        <stop offset="0.5" stop-color="#FFA930" />
-        <stop offset="0.73" stop-color="#FF7E37" />
-        <stop offset="0.79" stop-color="#FF7139" />
+        <stop stopColor="#FFE226" />
+        <stop offset="0.12" stopColor="#FFDB27" />
+        <stop offset="0.3" stopColor="#FFC82A" />
+        <stop offset="0.5" stopColor="#FFA930" />
+        <stop offset="0.73" stopColor="#FF7E37" />
+        <stop offset="0.79" stopColor="#FF7139" />
       </radialGradient>
       <radialGradient
         id="paint7_radial_4430_189350"
@@ -170,11 +170,11 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(22.8805 -3.34294) scale(42.7109 42.8046)"
       >
-        <stop offset="0.11" stop-color="#FFF44F" />
-        <stop offset="0.46" stop-color="#FF980E" />
-        <stop offset="0.62" stop-color="#FF5634" />
-        <stop offset="0.72" stop-color="#FF3647" />
-        <stop offset="0.9" stop-color="#E31587" />
+        <stop offset="0.11" stopColor="#FFF44F" />
+        <stop offset="0.46" stopColor="#FF980E" />
+        <stop offset="0.62" stopColor="#FF5634" />
+        <stop offset="0.72" stopColor="#FF3647" />
+        <stop offset="0.9" stopColor="#E31587" />
       </radialGradient>
       <radialGradient
         id="paint8_radial_4430_189350"
@@ -184,14 +184,14 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(18.7517 1.33374) rotate(84.2447) scale(31.1996 20.4543)"
       >
-        <stop stop-color="#FFF44F" />
-        <stop offset="0.06" stop-color="#FFE847" />
-        <stop offset="0.17" stop-color="#FFC830" />
-        <stop offset="0.3" stop-color="#FF980E" />
-        <stop offset="0.36" stop-color="#FF8B16" />
-        <stop offset="0.45" stop-color="#FF672A" />
-        <stop offset="0.57" stop-color="#FF3647" />
-        <stop offset="0.74" stop-color="#E31587" />
+        <stop stopColor="#FFF44F" />
+        <stop offset="0.06" stopColor="#FFE847" />
+        <stop offset="0.17" stopColor="#FFC830" />
+        <stop offset="0.3" stopColor="#FF980E" />
+        <stop offset="0.36" stopColor="#FF8B16" />
+        <stop offset="0.45" stopColor="#FF672A" />
+        <stop offset="0.57" stopColor="#FF3647" />
+        <stop offset="0.74" stopColor="#E31587" />
       </radialGradient>
       <radialGradient
         id="paint9_radial_4430_189350"
@@ -201,11 +201,11 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(14.7757 6.73605) scale(26.6644 26.723)"
       >
-        <stop offset="0.14" stop-color="#FFF44F" />
-        <stop offset="0.48" stop-color="#FF980E" />
-        <stop offset="0.59" stop-color="#FF5634" />
-        <stop offset="0.66" stop-color="#FF3647" />
-        <stop offset="0.9" stop-color="#E31587" />
+        <stop offset="0.14" stopColor="#FFF44F" />
+        <stop offset="0.48" stopColor="#FF980E" />
+        <stop offset="0.59" stopColor="#FF5634" />
+        <stop offset="0.66" stopColor="#FF3647" />
+        <stop offset="0.9" stopColor="#E31587" />
       </radialGradient>
       <radialGradient
         id="paint10_radial_4430_189350"
@@ -215,10 +215,10 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(21.8145 8.30047) scale(29.1844 29.2484)"
       >
-        <stop offset="0.09" stop-color="#FFF44F" />
-        <stop offset="0.23" stop-color="#FFE141" />
-        <stop offset="0.51" stop-color="#FFAF1E" />
-        <stop offset="0.63" stop-color="#FF980E" />
+        <stop offset="0.09" stopColor="#FFF44F" />
+        <stop offset="0.23" stopColor="#FFE141" />
+        <stop offset="0.51" stopColor="#FFAF1E" />
+        <stop offset="0.63" stopColor="#FF980E" />
       </radialGradient>
       <linearGradient
         id="paint11_linear_4430_189350"
@@ -228,10 +228,10 @@ const FireFox = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="25.1739"
         gradientUnits="userSpaceOnUse"
       >
-        <stop offset="0.17" stop-color="#FFF44F" stop-opacity="0.8" />
-        <stop offset="0.27" stop-color="#FFF44F" stop-opacity="0.63" />
-        <stop offset="0.49" stop-color="#FFF44F" stop-opacity="0.22" />
-        <stop offset="0.6" stop-color="#FFF44F" stop-opacity="0" />
+        <stop offset="0.17" stopColor="#FFF44F" stopOpacity="0.8" />
+        <stop offset="0.27" stopColor="#FFF44F" stopOpacity="0.63" />
+        <stop offset="0.49" stopColor="#FFF44F" stopOpacity="0.22" />
+        <stop offset="0.6" stopColor="#FFF44F" stopOpacity="0" />
       </linearGradient>
     </defs>
   </svg>

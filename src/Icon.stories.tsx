@@ -193,7 +193,7 @@ const VideoTemplate: ComponentStory<typeof VideoIcon> = (args) => (
 
 export const VideoIcons = VideoTemplate.bind({});
 VideoIcons.args = {
-  name: 'Youtube',
+  name: 'YouTube',
   size: 64,
 };
 
