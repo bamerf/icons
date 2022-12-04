@@ -1,3 +1,12 @@
+## [0.1.6](https://github.com/bamerf/icons/compare/v0.1.5...v0.1.6) (2022-12-04)
+
+
+### Performance Improvements
+
+* **icon:** add browser icons ([f5b5566](https://github.com/bamerf/icons/commit/f5b556602ddef77997ff5e05c8e2406ae329e3b7))
+* **icon:** fix file name ([9779ed3](https://github.com/bamerf/icons/commit/9779ed32e17a165ec32a34d45f7b727d79327d03))
+* **icon:** fix svg kebab case ([436643b](https://github.com/bamerf/icons/commit/436643b048bcae2af71b5fbbbb969c3a0a7f0588))
+
 ## [0.1.5](https://github.com/bamerf/icons/compare/v0.1.4...v0.1.5) (2022-12-02)
 
 
