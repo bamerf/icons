@@ -1,1 +1,10 @@
 export { default as Facebook } from './Facebook';
+export { default as Twitter } from './Twitter';
+export { default as VK } from './VK';
+export { default as LinkedIn } from './LinkedIn';
+export { default as Instagram } from './Instagram';
+export { default as Pinterest } from './Pinterest';
+export { default as Snapchat } from './Snapchat';
+export { default as Quora } from './Quora';
+export { default as Tinder } from './Tinder';
+export { default as Reddit } from './Reddit';
