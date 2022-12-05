@@ -1,3 +1,10 @@
+## [0.1.10](https://github.com/bamerf/icons/compare/v0.1.9...v0.1.10) (2022-12-05)
+
+
+### Performance Improvements
+
+* **messengerIcon:** add all messenger icons ([d816642](https://github.com/bamerf/icons/commit/d816642f937525a1e298357f4490780baf16262c))
+
 ## [0.1.9](https://github.com/bamerf/icons/compare/v0.1.8...v0.1.9) (2022-12-05)
 
 
