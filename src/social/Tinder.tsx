@@ -15,8 +15,8 @@ const Tinder = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
       fill="url(#paint0_radial_4430_189359)"
     />
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M13.195 14.46C13.1778 14.4661 13.1573 14.4605 13.1458 14.4464C12.6016 13.7301 12.4649 12.4987 12.4316 12.0257C12.4248 11.9346 12.3218 11.8834 12.2393 11.9292C10.5591 12.8675 9 15.087 9 17.23C9 20.9115 11.5721 24 16 24C20.1485 24 23 20.8168 23 17.2304C23 12.5377 19.6267 9.41971 16.6221 8.01025C16.5518 7.97728 16.4586 8.04515 16.4689 8.12171C16.8559 10.6507 16.3213 13.4012 13.195 14.46Z"
       fill="white"
     />
@@ -29,8 +29,8 @@ const Tinder = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(16 30) scale(29.9132)"
       >
-        <stop stop-color="#FF7854" />
-        <stop offset="1" stop-color="#FD267D" />
+        <stop stopColor="#FF7854" />
+        <stop offset="1" stopColor="#FD267D" />
       </radialGradient>
     </defs>
   </svg>
