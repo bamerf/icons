@@ -1,3 +1,11 @@
+## [0.1.8](https://github.com/bamerf/icons/compare/v0.1.7...v0.1.8) (2022-12-05)
+
+
+### Performance Improvements
+
+* **icon:** add all social icons ([6adae65](https://github.com/bamerf/icons/commit/6adae653a9c73606591b2de0b6d30032159d066b))
+* **icon:** add social icons ([d6ce5fe](https://github.com/bamerf/icons/commit/d6ce5fe4b862e750a17d1846a301818c5f39951e))
+
 ## [0.1.7](https://github.com/bamerf/icons/compare/v0.1.6...v0.1.7) (2022-12-04)
 
 
