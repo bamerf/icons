@@ -1,3 +1,11 @@
+## [0.1.9](https://github.com/bamerf/icons/compare/v0.1.8...v0.1.9) (2022-12-05)
+
+
+### Performance Improvements
+
+* **socialIcon:** fix build ([dd37fc1](https://github.com/bamerf/icons/commit/dd37fc145d0514a2b5b0c2d1f181fdef5fa40b05))
+* **socialIcon:** testing optimization ([8262124](https://github.com/bamerf/icons/commit/8262124235d92ecef63c50a6096db959e26c8aa5))
+
 ## [0.1.8](https://github.com/bamerf/icons/compare/v0.1.7...v0.1.8) (2022-12-05)
 
 
