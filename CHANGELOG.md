@@ -1,3 +1,10 @@
+## [0.1.11](https://github.com/bamerf/icons/compare/v0.1.10...v0.1.11) (2022-12-06)
+
+
+### Performance Improvements
+
+* **codingIcon:** add all coding icons ([4ffda5a](https://github.com/bamerf/icons/commit/4ffda5a4601452e6b54c4cc9c3535226c7bf74fe))
+
 ## [0.1.10](https://github.com/bamerf/icons/compare/v0.1.9...v0.1.10) (2022-12-05)
 
 
