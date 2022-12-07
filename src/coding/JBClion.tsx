@@ -50,15 +50,15 @@ const JBClion = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="6.91977"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#ED358C" />
-        <stop offset="0.155" stop-color="#E9388C" />
-        <stop offset="0.297" stop-color="#DE418C" />
-        <stop offset="0.433" stop-color="#CC508C" />
-        <stop offset="0.566" stop-color="#B2658D" />
-        <stop offset="0.697" stop-color="#90808D" />
-        <stop offset="0.826" stop-color="#67A18E" />
-        <stop offset="0.951" stop-color="#37C78F" />
-        <stop offset="1" stop-color="#22D88F" />
+        <stop stopColor="#ED358C" />
+        <stop offset="0.155" stopColor="#E9388C" />
+        <stop offset="0.297" stopColor="#DE418C" />
+        <stop offset="0.433" stopColor="#CC508C" />
+        <stop offset="0.566" stopColor="#B2658D" />
+        <stop offset="0.697" stopColor="#90808D" />
+        <stop offset="0.826" stopColor="#67A18E" />
+        <stop offset="0.951" stopColor="#37C78F" />
+        <stop offset="1" stopColor="#22D88F" />
       </linearGradient>
       <linearGradient
         id="paint1_linear_4430_189499"
@@ -68,8 +68,8 @@ const JBClion = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="35.6869"
         gradientUnits="userSpaceOnUse"
       >
-        <stop offset="0.091" stop-color="#22D88F" />
-        <stop offset="0.903" stop-color="#029DE0" />
+        <stop offset="0.091" stopColor="#22D88F" />
+        <stop offset="0.903" stopColor="#029DE0" />
       </linearGradient>
       <linearGradient
         id="paint2_linear_4430_189499"
@@ -79,8 +79,8 @@ const JBClion = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="36.9669"
         gradientUnits="userSpaceOnUse"
       >
-        <stop offset="0.091" stop-color="#22D88F" />
-        <stop offset="0.903" stop-color="#029DE0" />
+        <stop offset="0.091" stopColor="#22D88F" />
+        <stop offset="0.903" stopColor="#029DE0" />
       </linearGradient>
       <linearGradient
         id="paint3_linear_4430_189499"
@@ -90,8 +90,8 @@ const JBClion = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="24.3068"
         gradientUnits="userSpaceOnUse"
       >
-        <stop offset="0.091" stop-color="#22D88F" />
-        <stop offset="0.903" stop-color="#029DE0" />
+        <stop offset="0.091" stopColor="#22D88F" />
+        <stop offset="0.903" stopColor="#029DE0" />
       </linearGradient>
       <clipPath id="clip0_4430_189499">
         <rect width="32" height="32" fill="white" />

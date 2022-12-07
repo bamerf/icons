@@ -27,8 +27,8 @@ const Next = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
       fill="black"
     />
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M7.51469 18.993L2.37007 13H1V18.9905H2.09606V14.2805L6.13776 18.993H7.51469Z"
       fill="black"
     />

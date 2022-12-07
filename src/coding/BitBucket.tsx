@@ -16,8 +16,8 @@ const BitBucket = forwardRef<SVGSVGElement, CommonProps>(
         fill="#2684FF"
       />
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M28.7778 11.7362H20.3582L18.9453 20.2546H13.114L6.22852 28.6942C6.44675 28.8891 6.725 28.9975 7.0135 29H25.2879C25.7324 29.0059 26.114 28.6748 26.1851 28.2218L28.7778 11.7362Z"
         fill="url(#paint0_linear_4430_189495)"
       />
@@ -30,8 +30,8 @@ const BitBucket = forwardRef<SVGSVGElement, CommonProps>(
           y2="28.0751"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.18" stop-color="#0052CC" />
-          <stop offset="1" stop-color="#2684FF" />
+          <stop offset="0.18" stopColor="#0052CC" />
+          <stop offset="1" stopColor="#2684FF" />
         </linearGradient>
       </defs>
     </svg>

@@ -63,8 +63,8 @@ const JBUpsource = forwardRef<SVGSVGElement, CommonProps>(
           y2="8.28343"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF8200" />
-          <stop offset="0.973" stop-color="#905CFB" />
+          <stop stopColor="#FF8200" />
+          <stop offset="0.973" stopColor="#905CFB" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189521"
@@ -74,8 +74,8 @@ const JBUpsource = forwardRef<SVGSVGElement, CommonProps>(
           y2="4.62628"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#0CB0F2" />
-          <stop offset="0.973" stop-color="#905CFB" />
+          <stop stopColor="#0CB0F2" />
+          <stop offset="0.973" stopColor="#905CFB" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189521"
@@ -85,8 +85,8 @@ const JBUpsource = forwardRef<SVGSVGElement, CommonProps>(
           y2="17.5323"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#0CB0F2" />
-          <stop offset="0.973" stop-color="#905CFB" />
+          <stop stopColor="#0CB0F2" />
+          <stop offset="0.973" stopColor="#905CFB" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_4430_189521"
@@ -96,8 +96,8 @@ const JBUpsource = forwardRef<SVGSVGElement, CommonProps>(
           y2="16.8626"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#0CB0F2" />
-          <stop offset="0.973" stop-color="#905CFB" />
+          <stop stopColor="#0CB0F2" />
+          <stop offset="0.973" stopColor="#905CFB" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_4430_189521"
@@ -107,8 +107,8 @@ const JBUpsource = forwardRef<SVGSVGElement, CommonProps>(
           y2="19.5402"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#FF8200" />
-          <stop offset="0.973" stop-color="#905CFB" />
+          <stop stopColor="#FF8200" />
+          <stop offset="0.973" stopColor="#905CFB" />
         </linearGradient>
         <linearGradient
           id="paint5_linear_4430_189521"
@@ -118,8 +118,8 @@ const JBUpsource = forwardRef<SVGSVGElement, CommonProps>(
           y2="17.9323"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#0CB0F2" />
-          <stop offset="0.973" stop-color="#905CFB" />
+          <stop stopColor="#0CB0F2" />
+          <stop offset="0.973" stopColor="#905CFB" />
         </linearGradient>
         <clipPath id="clip0_4430_189521">
           <rect width="32" height="32" fill="white" />

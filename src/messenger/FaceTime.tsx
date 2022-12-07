@@ -32,8 +32,8 @@ const FaceTime = forwardRef<SVGSVGElement, CommonProps>(
           y2="30"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#61F677" />
-          <stop offset="1" stop-color="#10BC2B" />
+          <stop stopColor="#61F677" />
+          <stop offset="1" stopColor="#10BC2B" />
         </linearGradient>
       </defs>
     </svg>

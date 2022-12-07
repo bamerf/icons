@@ -51,10 +51,10 @@ const JBPhpStorm = forwardRef<SVGSVGElement, CommonProps>(
           y2="3.66903"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.016" stop-color="#765AF8" />
-          <stop offset="0.382" stop-color="#B345F1" />
-          <stop offset="0.758" stop-color="#FA3293" />
-          <stop offset="0.941" stop-color="#FF318C" />
+          <stop offset="0.016" stopColor="#765AF8" />
+          <stop offset="0.382" stopColor="#B345F1" />
+          <stop offset="0.758" stopColor="#FA3293" />
+          <stop offset="0.941" stopColor="#FF318C" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189505"
@@ -64,10 +64,10 @@ const JBPhpStorm = forwardRef<SVGSVGElement, CommonProps>(
           y2="4.39819"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.016" stop-color="#765AF8" />
-          <stop offset="0.382" stop-color="#B345F1" />
-          <stop offset="0.758" stop-color="#FA3293" />
-          <stop offset="0.941" stop-color="#FF318C" />
+          <stop offset="0.016" stopColor="#765AF8" />
+          <stop offset="0.382" stopColor="#B345F1" />
+          <stop offset="0.758" stopColor="#FA3293" />
+          <stop offset="0.941" stopColor="#FF318C" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189505"
@@ -77,11 +77,11 @@ const JBPhpStorm = forwardRef<SVGSVGElement, CommonProps>(
           y2="3.22199"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.183" stop-color="#765AF8" />
-          <stop offset="0.238" stop-color="#8655F6" />
-          <stop offset="0.345" stop-color="#9F4CF3" />
-          <stop offset="0.443" stop-color="#AE47F2" />
-          <stop offset="0.522" stop-color="#B345F1" />
+          <stop offset="0.183" stopColor="#765AF8" />
+          <stop offset="0.238" stopColor="#8655F6" />
+          <stop offset="0.345" stopColor="#9F4CF3" />
+          <stop offset="0.443" stopColor="#AE47F2" />
+          <stop offset="0.522" stopColor="#B345F1" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_4430_189505"
@@ -91,8 +91,8 @@ const JBPhpStorm = forwardRef<SVGSVGElement, CommonProps>(
           y2="12.5788"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.016" stop-color="#765AF8" />
-          <stop offset="0.382" stop-color="#B345F1" />
+          <stop offset="0.016" stopColor="#765AF8" />
+          <stop offset="0.382" stopColor="#B345F1" />
         </linearGradient>
         <clipPath id="clip0_4430_189505">
           <rect width="32" height="32" fill="white" />

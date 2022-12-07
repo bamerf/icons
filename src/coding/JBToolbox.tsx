@@ -31,9 +31,9 @@ const JBToolbox = forwardRef<SVGSVGElement, CommonProps>(
           y2="8.78199"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.043" stop-color="#FF8618" />
-          <stop offset="0.382" stop-color="#FF246E" />
-          <stop offset="0.989" stop-color="#AF1DF5" />
+          <stop offset="0.043" stopColor="#FF8618" />
+          <stop offset="0.382" stopColor="#FF246E" />
+          <stop offset="0.989" stopColor="#AF1DF5" />
         </linearGradient>
         <clipPath id="clip0_4430_189525">
           <rect width="32" height="32" fill="white" />

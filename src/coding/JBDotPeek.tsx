@@ -54,15 +54,15 @@ const JBDotPeek = forwardRef<SVGSVGElement, CommonProps>(
           y2="29.1277"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.097" stop-color="#E343E6" />
-          <stop offset="0.108" stop-color="#D948E8" />
-          <stop offset="0.165" stop-color="#AC5DEF" />
-          <stop offset="0.222" stop-color="#876FF5" />
-          <stop offset="0.279" stop-color="#6B7DF9" />
-          <stop offset="0.336" stop-color="#5687FC" />
-          <stop offset="0.392" stop-color="#4A8DFE" />
-          <stop offset="0.446" stop-color="#468FFF" />
-          <stop offset="0.935" stop-color="#00CAFF" />
+          <stop offset="0.097" stopColor="#E343E6" />
+          <stop offset="0.108" stopColor="#D948E8" />
+          <stop offset="0.165" stopColor="#AC5DEF" />
+          <stop offset="0.222" stopColor="#876FF5" />
+          <stop offset="0.279" stopColor="#6B7DF9" />
+          <stop offset="0.336" stopColor="#5687FC" />
+          <stop offset="0.392" stopColor="#4A8DFE" />
+          <stop offset="0.446" stopColor="#468FFF" />
+          <stop offset="0.935" stopColor="#00CAFF" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189511"
@@ -72,13 +72,13 @@ const JBDotPeek = forwardRef<SVGSVGElement, CommonProps>(
           y2="16.6524"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.097" stop-color="#E343E6" />
-          <stop offset="0.118" stop-color="#DE45E7" />
-          <stop offset="0.289" stop-color="#B951F0" />
-          <stop offset="0.462" stop-color="#9D5AF6" />
-          <stop offset="0.632" stop-color="#8861FB" />
-          <stop offset="0.802" stop-color="#7C65FE" />
-          <stop offset="0.968" stop-color="#7866FF" />
+          <stop offset="0.097" stopColor="#E343E6" />
+          <stop offset="0.118" stopColor="#DE45E7" />
+          <stop offset="0.289" stopColor="#B951F0" />
+          <stop offset="0.462" stopColor="#9D5AF6" />
+          <stop offset="0.632" stopColor="#8861FB" />
+          <stop offset="0.802" stopColor="#7C65FE" />
+          <stop offset="0.968" stopColor="#7866FF" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189511"
@@ -88,11 +88,11 @@ const JBDotPeek = forwardRef<SVGSVGElement, CommonProps>(
           y2="23.1557"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.199" stop-color="#E343E6" />
-          <stop offset="0.31" stop-color="#DA46E8" />
-          <stop offset="0.491" stop-color="#C24EEE" />
-          <stop offset="0.718" stop-color="#9A5BF7" />
-          <stop offset="0.887" stop-color="#7866FF" />
+          <stop offset="0.199" stopColor="#E343E6" />
+          <stop offset="0.31" stopColor="#DA46E8" />
+          <stop offset="0.491" stopColor="#C24EEE" />
+          <stop offset="0.718" stopColor="#9A5BF7" />
+          <stop offset="0.887" stopColor="#7866FF" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_4430_189511"
@@ -102,13 +102,13 @@ const JBDotPeek = forwardRef<SVGSVGElement, CommonProps>(
           y2="3.77417"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.097" stop-color="#E343E6" />
-          <stop offset="0.175" stop-color="#DA48E7" />
-          <stop offset="0.302" stop-color="#C157EA" />
-          <stop offset="0.464" stop-color="#996FEE" />
-          <stop offset="0.653" stop-color="#6290F4" />
-          <stop offset="0.863" stop-color="#1CB9FC" />
-          <stop offset="0.941" stop-color="#00CAFF" />
+          <stop offset="0.097" stopColor="#E343E6" />
+          <stop offset="0.175" stopColor="#DA48E7" />
+          <stop offset="0.302" stopColor="#C157EA" />
+          <stop offset="0.464" stopColor="#996FEE" />
+          <stop offset="0.653" stopColor="#6290F4" />
+          <stop offset="0.863" stopColor="#1CB9FC" />
+          <stop offset="0.941" stopColor="#00CAFF" />
         </linearGradient>
         <clipPath id="clip0_4430_189511">
           <rect width="32" height="32" fill="white" />

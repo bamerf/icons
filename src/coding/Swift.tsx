@@ -23,8 +23,8 @@ const Swift = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="27.0013"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#F88A36" />
-        <stop offset="1" stop-color="#FD2020" />
+        <stop stopColor="#F88A36" />
+        <stop offset="1" stopColor="#FD2020" />
       </linearGradient>
     </defs>
   </svg>

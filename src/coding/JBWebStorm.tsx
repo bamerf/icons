@@ -47,8 +47,8 @@ const JBWebStorm = forwardRef<SVGSVGElement, CommonProps>(
           y2="30.48"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.285" stop-color="#00CDD7" />
-          <stop offset="0.941" stop-color="#2086D7" />
+          <stop offset="0.285" stopColor="#00CDD7" />
+          <stop offset="0.941" stopColor="#2086D7" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189508"
@@ -58,8 +58,8 @@ const JBWebStorm = forwardRef<SVGSVGElement, CommonProps>(
           y2="24.9925"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.14" stop-color="#FFF045" />
-          <stop offset="0.366" stop-color="#00CDD7" />
+          <stop offset="0.14" stopColor="#FFF045" />
+          <stop offset="0.366" stopColor="#00CDD7" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189508"
@@ -69,8 +69,8 @@ const JBWebStorm = forwardRef<SVGSVGElement, CommonProps>(
           y2="13.5058"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.285" stop-color="#00CDD7" />
-          <stop offset="0.941" stop-color="#2086D7" />
+          <stop offset="0.285" stopColor="#00CDD7" />
+          <stop offset="0.941" stopColor="#2086D7" />
         </linearGradient>
         <clipPath id="clip0_4430_189508">
           <rect width="32" height="32" fill="white" />

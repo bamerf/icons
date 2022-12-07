@@ -47,14 +47,14 @@ const JBDotCover = forwardRef<SVGSVGElement, CommonProps>(
           y2="2.47863"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.048" stop-color="#7866FF" />
-          <stop offset="0.135" stop-color="#8265FA" />
-          <stop offset="0.281" stop-color="#9C64EE" />
-          <stop offset="0.467" stop-color="#C661D9" />
-          <stop offset="0.608" stop-color="#EB5FC7" />
-          <stop offset="0.729" stop-color="#FA6398" />
-          <stop offset="0.769" stop-color="#FF6488" />
-          <stop offset="0.995" stop-color="#FF7500" />
+          <stop offset="0.048" stopColor="#7866FF" />
+          <stop offset="0.135" stopColor="#8265FA" />
+          <stop offset="0.281" stopColor="#9C64EE" />
+          <stop offset="0.467" stopColor="#C661D9" />
+          <stop offset="0.608" stopColor="#EB5FC7" />
+          <stop offset="0.729" stopColor="#FA6398" />
+          <stop offset="0.769" stopColor="#FF6488" />
+          <stop offset="0.995" stopColor="#FF7500" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189509"
@@ -64,12 +64,12 @@ const JBDotCover = forwardRef<SVGSVGElement, CommonProps>(
           y2="21.089"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.247" stop-color="#7866FF" />
-          <stop offset="0.346" stop-color="#8F5FFA" />
-          <stop offset="0.531" stop-color="#B353F1" />
-          <stop offset="0.705" stop-color="#CD4AEB" />
-          <stop offset="0.859" stop-color="#DD45E7" />
-          <stop offset="0.979" stop-color="#E343E6" />
+          <stop offset="0.247" stopColor="#7866FF" />
+          <stop offset="0.346" stopColor="#8F5FFA" />
+          <stop offset="0.531" stopColor="#B353F1" />
+          <stop offset="0.705" stopColor="#CD4AEB" />
+          <stop offset="0.859" stopColor="#DD45E7" />
+          <stop offset="0.979" stopColor="#E343E6" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189509"
@@ -79,11 +79,11 @@ const JBDotCover = forwardRef<SVGSVGElement, CommonProps>(
           y2="15.0249"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.006" stop-color="#E343E6" />
-          <stop offset="0.064" stop-color="#E649CA" />
-          <stop offset="0.19" stop-color="#EF5982" />
-          <stop offset="0.372" stop-color="#FD7110" />
-          <stop offset="0.398" stop-color="#FF7500" />
+          <stop offset="0.006" stopColor="#E343E6" />
+          <stop offset="0.064" stopColor="#E649CA" />
+          <stop offset="0.19" stopColor="#EF5982" />
+          <stop offset="0.372" stopColor="#FD7110" />
+          <stop offset="0.398" stopColor="#FF7500" />
         </linearGradient>
         <clipPath id="clip0_4430_189509">
           <rect width="32" height="32" fill="white" />

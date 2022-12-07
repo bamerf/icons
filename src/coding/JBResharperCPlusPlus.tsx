@@ -54,9 +54,9 @@ const JBResharperCPlusPlus = forwardRef<SVGSVGElement, CommonProps>(
           y2="31.889"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.22" stop-color="#C40B55" />
-          <stop offset="0.683" stop-color="#E343E6" />
-          <stop offset="0.925" stop-color="#F59252" />
+          <stop offset="0.22" stopColor="#C40B55" />
+          <stop offset="0.683" stopColor="#E343E6" />
+          <stop offset="0.925" stopColor="#F59252" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189502"
@@ -66,10 +66,10 @@ const JBResharperCPlusPlus = forwardRef<SVGSVGElement, CommonProps>(
           y2="8.29806"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.113" stop-color="#FFBD00" />
-          <stop offset="0.586" stop-color="#E343E6" />
-          <stop offset="0.817" stop-color="#EC841B" />
-          <stop offset="0.935" stop-color="#FFBD00" />
+          <stop offset="0.113" stopColor="#FFBD00" />
+          <stop offset="0.586" stopColor="#E343E6" />
+          <stop offset="0.817" stopColor="#EC841B" />
+          <stop offset="0.935" stopColor="#FFBD00" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189502"
@@ -79,9 +79,9 @@ const JBResharperCPlusPlus = forwardRef<SVGSVGElement, CommonProps>(
           y2="23.3911"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.129" stop-color="#FFBD00" />
-          <stop offset="0.64" stop-color="#E343E6" />
-          <stop offset="0.909" stop-color="#C40B55" />
+          <stop offset="0.129" stopColor="#FFBD00" />
+          <stop offset="0.64" stopColor="#E343E6" />
+          <stop offset="0.909" stopColor="#C40B55" />
         </linearGradient>
         <clipPath id="clip0_4430_189502">
           <rect width="32" height="32" fill="white" />

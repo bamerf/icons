@@ -12,8 +12,8 @@ const FBMessenger = forwardRef<SVGSVGElement, CommonProps>(
       xmlns="http://www.w3.org/2000/svg"
     >
       <path
-        fill-rule="evenodd"
-        clip-rule="evenodd"
+        fillRule="evenodd"
+        clipRule="evenodd"
         d="M16 28.1791C23.1797 28.1791 29 22.5426 29 15.5896C29 8.63654 23.1797 3 16 3C8.8203 3 3 8.63654 3 15.5896C3 19.3712 4.72168 22.7634 7.44737 25.0711V27.6188C7.44737 28.6145 8.4616 29.2824 9.36588 28.8821L12.193 27.6307C13.397 27.9873 14.6754 28.1791 16 28.1791Z"
         fill="url(#paint0_linear_4430_189378)"
       />
@@ -30,8 +30,8 @@ const FBMessenger = forwardRef<SVGSVGElement, CommonProps>(
           y2="28.8583"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#00B1FF" />
-          <stop offset="1" stop-color="#006BFF" />
+          <stop stopColor="#00B1FF" />
+          <stop offset="1" stopColor="#006BFF" />
         </linearGradient>
       </defs>
     </svg>

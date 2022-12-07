@@ -51,14 +51,14 @@ const JBTeamCity = forwardRef<SVGSVGElement, CommonProps>(
           y2="14.2962"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#905CFB" />
-          <stop offset="0.068" stop-color="#776CF9" />
-          <stop offset="0.173" stop-color="#5681F7" />
-          <stop offset="0.286" stop-color="#3B92F5" />
-          <stop offset="0.41" stop-color="#269FF4" />
-          <stop offset="0.547" stop-color="#17A9F3" />
-          <stop offset="0.711" stop-color="#0FAEF2" />
-          <stop offset="0.968" stop-color="#0CB0F2" />
+          <stop stopColor="#905CFB" />
+          <stop offset="0.068" stopColor="#776CF9" />
+          <stop offset="0.173" stopColor="#5681F7" />
+          <stop offset="0.286" stopColor="#3B92F5" />
+          <stop offset="0.41" stopColor="#269FF4" />
+          <stop offset="0.547" stopColor="#17A9F3" />
+          <stop offset="0.711" stopColor="#0FAEF2" />
+          <stop offset="0.968" stopColor="#0CB0F2" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189520"
@@ -68,14 +68,14 @@ const JBTeamCity = forwardRef<SVGSVGElement, CommonProps>(
           y2="20.053"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#905CFB" />
-          <stop offset="0.068" stop-color="#776CF9" />
-          <stop offset="0.173" stop-color="#5681F7" />
-          <stop offset="0.286" stop-color="#3B92F5" />
-          <stop offset="0.41" stop-color="#269FF4" />
-          <stop offset="0.547" stop-color="#17A9F3" />
-          <stop offset="0.711" stop-color="#0FAEF2" />
-          <stop offset="0.968" stop-color="#0CB0F2" />
+          <stop stopColor="#905CFB" />
+          <stop offset="0.068" stopColor="#776CF9" />
+          <stop offset="0.173" stopColor="#5681F7" />
+          <stop offset="0.286" stopColor="#3B92F5" />
+          <stop offset="0.41" stopColor="#269FF4" />
+          <stop offset="0.547" stopColor="#17A9F3" />
+          <stop offset="0.711" stopColor="#0FAEF2" />
+          <stop offset="0.968" stopColor="#0CB0F2" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189520"
@@ -85,13 +85,13 @@ const JBTeamCity = forwardRef<SVGSVGElement, CommonProps>(
           y2="15.1707"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#3BEA62" />
-          <stop offset="0.117" stop-color="#31DE80" />
-          <stop offset="0.302" stop-color="#24CEA8" />
-          <stop offset="0.484" stop-color="#1AC1C9" />
-          <stop offset="0.659" stop-color="#12B7DF" />
-          <stop offset="0.824" stop-color="#0EB2ED" />
-          <stop offset="0.968" stop-color="#0CB0F2" />
+          <stop stopColor="#3BEA62" />
+          <stop offset="0.117" stopColor="#31DE80" />
+          <stop offset="0.302" stopColor="#24CEA8" />
+          <stop offset="0.484" stopColor="#1AC1C9" />
+          <stop offset="0.659" stopColor="#12B7DF" />
+          <stop offset="0.824" stopColor="#0EB2ED" />
+          <stop offset="0.968" stopColor="#0CB0F2" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_4430_189520"
@@ -101,14 +101,14 @@ const JBTeamCity = forwardRef<SVGSVGElement, CommonProps>(
           y2="35.4327"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#3BEA62" />
-          <stop offset="0.094" stop-color="#2FDB87" />
-          <stop offset="0.196" stop-color="#24CEA8" />
-          <stop offset="0.306" stop-color="#1BC3C3" />
-          <stop offset="0.426" stop-color="#14BAD8" />
-          <stop offset="0.56" stop-color="#10B5E7" />
-          <stop offset="0.719" stop-color="#0DB1EF" />
-          <stop offset="0.968" stop-color="#0CB0F2" />
+          <stop stopColor="#3BEA62" />
+          <stop offset="0.094" stopColor="#2FDB87" />
+          <stop offset="0.196" stopColor="#24CEA8" />
+          <stop offset="0.306" stopColor="#1BC3C3" />
+          <stop offset="0.426" stopColor="#14BAD8" />
+          <stop offset="0.56" stopColor="#10B5E7" />
+          <stop offset="0.719" stopColor="#0DB1EF" />
+          <stop offset="0.968" stopColor="#0CB0F2" />
         </linearGradient>
         <clipPath id="clip0_4430_189520">
           <rect width="32" height="32" fill="white" />

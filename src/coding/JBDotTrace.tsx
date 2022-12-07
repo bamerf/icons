@@ -46,9 +46,9 @@ const JBDotTrace = forwardRef<SVGSVGElement, CommonProps>(
           y2="11.9301"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.124" stop-color="#7866FF" />
-          <stop offset="0.538" stop-color="#FE2EB6" />
-          <stop offset="0.855" stop-color="#FD0486" />
+          <stop offset="0.124" stopColor="#7866FF" />
+          <stop offset="0.538" stopColor="#FE2EB6" />
+          <stop offset="0.855" stopColor="#FD0486" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189512"
@@ -58,12 +58,12 @@ const JBDotTrace = forwardRef<SVGSVGElement, CommonProps>(
           y2="4.15954"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.124" stop-color="#FF0080" />
-          <stop offset="0.259" stop-color="#FE0385" />
-          <stop offset="0.411" stop-color="#FA0C92" />
-          <stop offset="0.571" stop-color="#F41BA9" />
-          <stop offset="0.736" stop-color="#EB2FC8" />
-          <stop offset="0.866" stop-color="#E343E6" />
+          <stop offset="0.124" stopColor="#FF0080" />
+          <stop offset="0.259" stopColor="#FE0385" />
+          <stop offset="0.411" stopColor="#FA0C92" />
+          <stop offset="0.571" stopColor="#F41BA9" />
+          <stop offset="0.736" stopColor="#EB2FC8" />
+          <stop offset="0.866" stopColor="#E343E6" />
         </linearGradient>
         <clipPath id="clip0_4430_189512">
           <rect width="32" height="32" fill="white" />

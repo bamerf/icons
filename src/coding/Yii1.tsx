@@ -35,8 +35,8 @@ const Yii1 = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="20.2825"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#73B723" />
-        <stop offset="1" stop-color="#D8EE61" />
+        <stop stopColor="#73B723" />
+        <stop offset="1" stopColor="#D8EE61" />
       </linearGradient>
       <linearGradient
         id="paint1_linear_4430_189518"
@@ -46,9 +46,9 @@ const Yii1 = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="26.9439"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#98C9EA" />
-        <stop offset="0.68865" stop-color="#026FB2" />
-        <stop offset="1" stop-color="#086EB6" />
+        <stop stopColor="#98C9EA" />
+        <stop offset="0.68865" stopColor="#026FB2" />
+        <stop offset="1" stopColor="#086EB6" />
       </linearGradient>
       <linearGradient
         id="paint2_linear_4430_189518"
@@ -58,8 +58,8 @@ const Yii1 = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="14.9409"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#D4C883" />
-        <stop offset="1" stop-color="#A1D1A7" />
+        <stop stopColor="#D4C883" />
+        <stop offset="1" stopColor="#A1D1A7" />
       </linearGradient>
       <linearGradient
         id="paint3_linear_4430_189518"
@@ -69,8 +69,8 @@ const Yii1 = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="15.0705"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#D73721" />
-        <stop offset="1" stop-color="#F7D768" />
+        <stop stopColor="#D73721" />
+        <stop offset="1" stopColor="#F7D768" />
       </linearGradient>
     </defs>
   </svg>

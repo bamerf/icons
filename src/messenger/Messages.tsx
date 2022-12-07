@@ -28,8 +28,8 @@ const Messages = forwardRef<SVGSVGElement, CommonProps>(
           y2="30"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#5AF575" />
-          <stop offset="1" stop-color="#13BD2C" />
+          <stop stopColor="#5AF575" />
+          <stop offset="1" stopColor="#13BD2C" />
         </linearGradient>
       </defs>
     </svg>

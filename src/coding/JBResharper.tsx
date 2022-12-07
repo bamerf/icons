@@ -54,11 +54,11 @@ const JBResharper = forwardRef<SVGSVGElement, CommonProps>(
           y2="9.43638"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.016" stop-color="#B35BA3" />
-          <stop offset="0.404" stop-color="#C41E57" />
-          <stop offset="0.468" stop-color="#C41E57" />
-          <stop offset="0.65" stop-color="#EB8523" />
-          <stop offset="0.952" stop-color="#FEBD11" />
+          <stop offset="0.016" stopColor="#B35BA3" />
+          <stop offset="0.404" stopColor="#C41E57" />
+          <stop offset="0.468" stopColor="#C41E57" />
+          <stop offset="0.65" stopColor="#EB8523" />
+          <stop offset="0.952" stopColor="#FEBD11" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189501"
@@ -68,10 +68,10 @@ const JBResharper = forwardRef<SVGSVGElement, CommonProps>(
           y2="8.29806"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.016" stop-color="#B35BA3" />
-          <stop offset="0.404" stop-color="#C41E57" />
-          <stop offset="0.468" stop-color="#C41E57" />
-          <stop offset="0.704" stop-color="#EB8523" />
+          <stop offset="0.016" stopColor="#B35BA3" />
+          <stop offset="0.404" stopColor="#C41E57" />
+          <stop offset="0.468" stopColor="#C41E57" />
+          <stop offset="0.704" stopColor="#EB8523" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189501"
@@ -81,8 +81,8 @@ const JBResharper = forwardRef<SVGSVGElement, CommonProps>(
           y2="4.2176"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.016" stop-color="#B35BA3" />
-          <stop offset="0.661" stop-color="#C41E57" />
+          <stop offset="0.016" stopColor="#B35BA3" />
+          <stop offset="0.661" stopColor="#C41E57" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_4430_189501"
@@ -92,10 +92,10 @@ const JBResharper = forwardRef<SVGSVGElement, CommonProps>(
           y2="10.9874"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.5" stop-color="#C41E57" />
-          <stop offset="0.667" stop-color="#D13F48" />
-          <stop offset="0.795" stop-color="#D94F39" />
-          <stop offset="0.866" stop-color="#DD5433" />
+          <stop offset="0.5" stopColor="#C41E57" />
+          <stop offset="0.667" stopColor="#D13F48" />
+          <stop offset="0.795" stopColor="#D94F39" />
+          <stop offset="0.866" stopColor="#DD5433" />
         </linearGradient>
         <clipPath id="clip0_4430_189501">
           <rect width="32" height="32" fill="white" />

@@ -50,8 +50,8 @@ const JBHub = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="17.9767"
         gradientUnits="userSpaceOnUse"
       >
-        <stop offset="0.328" stop-color="#00B8F1" />
-        <stop offset="0.973" stop-color="#9758FB" />
+        <stop offset="0.328" stopColor="#00B8F1" />
+        <stop offset="0.973" stopColor="#9758FB" />
       </linearGradient>
       <linearGradient
         id="paint1_linear_4430_189516"
@@ -61,8 +61,8 @@ const JBHub = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="6.23361"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#FFEE45" />
-        <stop offset="1" stop-color="#9758FB" />
+        <stop stopColor="#FFEE45" />
+        <stop offset="1" stopColor="#9758FB" />
       </linearGradient>
       <linearGradient
         id="paint2_linear_4430_189516"
@@ -72,8 +72,8 @@ const JBHub = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="13.7517"
         gradientUnits="userSpaceOnUse"
       >
-        <stop offset="0.328" stop-color="#00B8F1" />
-        <stop offset="0.79" stop-color="#9758FB" />
+        <stop offset="0.328" stopColor="#00B8F1" />
+        <stop offset="0.79" stopColor="#9758FB" />
       </linearGradient>
       <linearGradient
         id="paint3_linear_4430_189516"
@@ -83,9 +83,9 @@ const JBHub = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="23.8281"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#00B8F1" />
-        <stop offset="0.306" stop-color="#9758FB" />
-        <stop offset="0.989" stop-color="#FFEE45" />
+        <stop stopColor="#00B8F1" />
+        <stop offset="0.306" stopColor="#9758FB" />
+        <stop offset="0.989" stopColor="#FFEE45" />
       </linearGradient>
       <clipPath id="clip0_4430_189516">
         <rect width="32" height="32" fill="white" />

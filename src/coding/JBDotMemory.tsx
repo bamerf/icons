@@ -50,16 +50,16 @@ const JBDotMemory = forwardRef<SVGSVGElement, CommonProps>(
           y2="31.5237"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#7866FF" />
-          <stop offset="0.023" stop-color="#7E64FE" />
-          <stop offset="0.195" stop-color="#AA56F3" />
-          <stop offset="0.349" stop-color="#C94CEC" />
-          <stop offset="0.48" stop-color="#DC45E8" />
-          <stop offset="0.57" stop-color="#E343E6" />
-          <stop offset="0.641" stop-color="#E859BC" />
-          <stop offset="0.819" stop-color="#F48F58" />
-          <stop offset="0.942" stop-color="#FCB019" />
-          <stop offset="1" stop-color="#FFBD00" />
+          <stop stopColor="#7866FF" />
+          <stop offset="0.023" stopColor="#7E64FE" />
+          <stop offset="0.195" stopColor="#AA56F3" />
+          <stop offset="0.349" stopColor="#C94CEC" />
+          <stop offset="0.48" stopColor="#DC45E8" />
+          <stop offset="0.57" stopColor="#E343E6" />
+          <stop offset="0.641" stopColor="#E859BC" />
+          <stop offset="0.819" stopColor="#F48F58" />
+          <stop offset="0.942" stopColor="#FCB019" />
+          <stop offset="1" stopColor="#FFBD00" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189510"
@@ -69,10 +69,10 @@ const JBDotMemory = forwardRef<SVGSVGElement, CommonProps>(
           y2="3.43588"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stop-color="#7866FF" />
-          <stop offset="0.202" stop-color="#965CF8" />
-          <stop offset="0.64" stop-color="#E343E6" />
-          <stop offset="0.968" stop-color="#FFBD00" />
+          <stop stopColor="#7866FF" />
+          <stop offset="0.202" stopColor="#965CF8" />
+          <stop offset="0.64" stopColor="#E343E6" />
+          <stop offset="0.968" stopColor="#FFBD00" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189510"
@@ -82,13 +82,13 @@ const JBDotMemory = forwardRef<SVGSVGElement, CommonProps>(
           y2="13.8157"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.118" stop-color="#E343E6" />
-          <stop offset="0.211" stop-color="#C84CEC" />
-          <stop offset="0.338" stop-color="#AB55F3" />
-          <stop offset="0.472" stop-color="#955DF8" />
-          <stop offset="0.618" stop-color="#8562FC" />
-          <stop offset="0.781" stop-color="#7B65FE" />
-          <stop offset="1" stop-color="#7866FF" />
+          <stop offset="0.118" stopColor="#E343E6" />
+          <stop offset="0.211" stopColor="#C84CEC" />
+          <stop offset="0.338" stopColor="#AB55F3" />
+          <stop offset="0.472" stopColor="#955DF8" />
+          <stop offset="0.618" stopColor="#8562FC" />
+          <stop offset="0.781" stopColor="#7B65FE" />
+          <stop offset="1" stopColor="#7866FF" />
         </linearGradient>
         <clipPath id="clip0_4430_189510">
           <rect width="32" height="32" fill="white" />

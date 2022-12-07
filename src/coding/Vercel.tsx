@@ -11,8 +11,8 @@ const Vercel = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
   >
     <circle cx="16" cy="16" r="14" fill="#171717" />
     <path
-      fill-rule="evenodd"
-      clip-rule="evenodd"
+      fillRule="evenodd"
+      clipRule="evenodd"
       d="M16 9L23 20.6667H9L16 9Z"
       fill="#F5F5F5"
     />

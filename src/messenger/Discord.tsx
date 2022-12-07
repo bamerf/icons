@@ -27,8 +27,8 @@ const Discord = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         y2="30"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stop-color="#687EC9" />
-        <stop offset="1" stop-color="#5971C3" />
+        <stop stopColor="#687EC9" />
+        <stop offset="1" stopColor="#5971C3" />
       </linearGradient>
     </defs>
   </svg>

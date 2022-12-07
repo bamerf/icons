@@ -54,8 +54,8 @@ const JBAppCode = forwardRef<SVGSVGElement, CommonProps>(
           y2="26.4023"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.194" stop-color="#00DAF0" />
-          <stop offset="0.903" stop-color="#247CE6" />
+          <stop offset="0.194" stopColor="#00DAF0" />
+          <stop offset="0.903" stopColor="#247CE6" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_4430_189498"
@@ -65,8 +65,8 @@ const JBAppCode = forwardRef<SVGSVGElement, CommonProps>(
           y2="7.96114"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.194" stop-color="#00DAF0" />
-          <stop offset="0.903" stop-color="#247CE6" />
+          <stop offset="0.194" stopColor="#00DAF0" />
+          <stop offset="0.903" stopColor="#247CE6" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_4430_189498"
@@ -76,9 +76,9 @@ const JBAppCode = forwardRef<SVGSVGElement, CommonProps>(
           y2="10.891"
           gradientUnits="userSpaceOnUse"
         >
-          <stop offset="0.091" stop-color="#1DDF93" />
-          <stop offset="0.484" stop-color="#00DAF0" />
-          <stop offset="0.903" stop-color="#247CE6" />
+          <stop offset="0.091" stopColor="#1DDF93" />
+          <stop offset="0.484" stopColor="#00DAF0" />
+          <stop offset="0.903" stopColor="#247CE6" />
         </linearGradient>
         <clipPath id="clip0_4430_189498">
           <rect width="32" height="32" fill="white" />
