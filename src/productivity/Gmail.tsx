@@ -52,7 +52,7 @@ const Gmail = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         width="36"
         height="36"
         filterUnits="userSpaceOnUse"
-        ColorInterpolationFilters="sRGB"
+        colorInterpolationFilters="sRGB"
       >
         <feFlood floodOpacity="0" result="BackgroundImageFix" />
         <feColorMatrix

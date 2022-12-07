@@ -33,7 +33,7 @@ const Finder = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
         width="30"
         height="26"
         filterUnits="userSpaceOnUse"
-        ColorInterpolationFilters="sRGB"
+        colorInterpolationFilters="sRGB"
       >
         <feFlood floodOpacity="0" result="BackgroundImageFix" />
         <feColorMatrix
