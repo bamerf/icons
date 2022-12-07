@@ -1,3 +1,11 @@
+## [0.1.12](https://github.com/bamerf/icons/compare/v0.1.11...v0.1.12) (2022-12-07)
+
+
+### Performance Improvements
+
+* **icons:** fix wrong svg property ([9bfb570](https://github.com/bamerf/icons/commit/9bfb570a9644d4f6abc1371819d7ed17c2264a42))
+* **productivityIcons:** add all prod icons ([df721b0](https://github.com/bamerf/icons/commit/df721b02bc2abf39845e4cfa923d0e6e60f2e9f5))
+
 ## [0.1.11](https://github.com/bamerf/icons/compare/v0.1.10...v0.1.11) (2022-12-06)
 
 
