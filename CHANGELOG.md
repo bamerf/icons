@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/bamerf/icons/compare/v0.1.12...v0.2.0) (2022-12-09)
+
+
+### Features
+
+* **icon:** add all remaining icons ([1f3d685](https://github.com/bamerf/icons/commit/1f3d685c85b501f91cc82b930c9a19f3aacad061))
+
 ## [0.1.12](https://github.com/bamerf/icons/compare/v0.1.11...v0.1.12) (2022-12-07)
 
 
