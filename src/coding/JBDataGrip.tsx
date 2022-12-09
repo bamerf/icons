@@ -11,7 +11,7 @@ const JBDataGrip = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189503)">
+      <g clipPath="url(#clip0_4430_189503)">
         <path
           d="M29.9428 4.98285L31.9999 18.0571L24.2285 22.5828L22.7656 15.1771L29.9428 4.98285Z"
           fill="#9775F8"

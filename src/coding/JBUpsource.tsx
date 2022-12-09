@@ -11,7 +11,7 @@ const JBUpsource = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189521)">
+      <g clipPath="url(#clip0_4430_189521)">
         <path
           d="M27.6567 10.9714L4.38812 12.2971L4.25098 3.38286L25.2338 0.0914307L27.6567 10.9714Z"
           fill="url(#paint0_linear_4430_189521)"

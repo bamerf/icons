@@ -11,7 +11,7 @@ const JBAppCode = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189498)">
+      <g clipPath="url(#clip0_4430_189498)">
         <path
           d="M27.0631 25.1429L32.0002 12.0229L17.0517 8.68573L15.0859 14.2629L27.0631 25.1429Z"
           fill="#247CE6"

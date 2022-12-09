@@ -11,7 +11,7 @@ const JBDotCover = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189509)">
+      <g clipPath="url(#clip0_4430_189509)">
         <path
           d="M19.5657 0L0 2.19429V12.2514L4.89143 28.6171L29.5314 22.3543L19.5657 0Z"
           fill="url(#paint0_linear_4430_189509)"

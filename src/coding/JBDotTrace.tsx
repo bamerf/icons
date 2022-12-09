@@ -11,7 +11,7 @@ const JBDotTrace = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189512)">
+      <g clipPath="url(#clip0_4430_189512)">
         <path
           d="M30.7657 7.31429L19.9771 0L0 14.2171L5.07429 32L26.9257 27.5657L30.7657 7.31429Z"
           fill="url(#paint0_linear_4430_189512)"

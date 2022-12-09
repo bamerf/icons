@@ -11,7 +11,7 @@ const JBRubyMine = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189507)">
+      <g clipPath="url(#clip0_4430_189507)">
         <path
           d="M26.6057 0L17.4629 3.29143L10.24 0L3.1543 17.7829L11.2914 14.5371L11.1543 23.5429L28.5714 23.8629L32 6.26286L26.6057 0Z"
           fill="url(#paint0_linear_4430_189507)"

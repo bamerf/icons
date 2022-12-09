@@ -11,7 +11,7 @@ const JBDotMemory = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189510)">
+      <g clipPath="url(#clip0_4430_189510)">
         <path
           d="M3.65733 29.76L0.0458984 17.1886L23.6345 20.6629L20.2516 32L3.65733 29.76Z"
           fill="url(#paint0_linear_4430_189510)"

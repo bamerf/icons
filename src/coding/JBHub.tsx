@@ -10,7 +10,7 @@ const JBHub = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   >
-    <g clip-path="url(#clip0_4430_189516)">
+    <g clipPath="url(#clip0_4430_189516)">
       <path
         d="M28.0227 0.411447C27.2455 0.0457328 26.3769 -0.0456958 25.5084 0.0457328C25.3712 0.0457328 4.7998 1.78288 4.7998 1.78288L19.3369 18.9257L21.9884 19.0629L30.3084 10.0572C33.097 7.26859 32.5027 2.28573 28.0227 0.411447Z"
         fill="url(#paint0_linear_4430_189516)"

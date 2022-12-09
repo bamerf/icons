@@ -11,7 +11,7 @@ const JBResharper = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189501)">
+      <g clipPath="url(#clip0_4430_189501)">
         <path
           d="M22.7656 6.94861L16.457 16.7772L26.697 32L31.9999 10.56L22.7656 6.94861Z"
           fill="url(#paint0_linear_4430_189501)"

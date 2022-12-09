@@ -11,7 +11,7 @@ const JBPyCharm = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189506)">
+      <g clipPath="url(#clip0_4430_189506)">
         <path
           d="M22.4456 5.02856L31.7714 12.8457L28.4342 19.6571L22.7656 18.1028H17.9199L22.4456 5.02856Z"
           fill="url(#paint0_linear_4430_189506)"

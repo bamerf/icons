@@ -10,7 +10,7 @@ const JBRider = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   >
-    <g clip-path="url(#clip0_4430_189500)">
+    <g clipPath="url(#clip0_4430_189500)">
       <path
         d="M31.9995 12.4512L28.9783 10.8571L9.56571 0L1.74902 8.19246L9.88251 18.7739L27.6736 20.2958L31.9995 12.4512Z"
         fill="url(#paint0_linear_4430_189500)"

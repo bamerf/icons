@@ -11,7 +11,7 @@ const JBIntelliJ = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189523)">
+      <g clipPath="url(#clip0_4430_189523)">
         <path
           d="M8.09095 24.96L0.365234 18.8342L4.20523 11.7028L15.2224 16L8.09095 24.96Z"
           fill="url(#paint0_linear_4430_189523)"

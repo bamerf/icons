@@ -11,7 +11,7 @@ const JBPhpStorm = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189505)">
+      <g clipPath="url(#clip0_4430_189505)">
         <path
           d="M18.1029 6.94857L16.5943 2.37714L5.44 0L0 6.17143L17.0057 14.8571L18.1029 6.94857Z"
           fill="url(#paint0_linear_4430_189505)"

@@ -11,7 +11,7 @@ const JBWebStorm = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189508)">
+      <g clipPath="url(#clip0_4430_189508)">
         <path
           d="M4.29714 28.9371L0 3.33714L8 0.0457153L13.0743 3.06286L17.7371 0.548573L27.4743 4.29714L21.9886 32L4.29714 28.9371Z"
           fill="url(#paint0_linear_4430_189508)"

@@ -11,7 +11,7 @@ const JBDotPeek = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189511)">
+      <g clipPath="url(#clip0_4430_189511)">
         <path
           d="M20.2514 9.55426L2.37714 13.8514L0 18.6514L6.44571 32L22.5371 29.2114L20.2514 9.55426Z"
           fill="url(#paint0_linear_4430_189511)"

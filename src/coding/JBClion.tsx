@@ -10,7 +10,7 @@ const JBClion = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
   >
-    <g clip-path="url(#clip0_4430_189499)">
+    <g clipPath="url(#clip0_4430_189499)">
       <path
         d="M12.2972 12.9829L10.1943 13.8514L12.0686 0L19.4743 4.02286L12.2972 12.9829Z"
         fill="url(#paint0_linear_4430_189499)"

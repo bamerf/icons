@@ -11,7 +11,7 @@ const JBToolbox = forwardRef<SVGSVGElement, CommonProps>(
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_4430_189525)">
+      <g clipPath="url(#clip0_4430_189525)">
         <path
           d="M16 32.076L30 24.065V8.05701L16 16.067V32.076Z"
           fill="#000001"
