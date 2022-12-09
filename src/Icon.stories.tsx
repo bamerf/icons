@@ -1,6 +1,6 @@
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 import {
-  BaseIcon,
+  // BaseIcon,
   CountryIcon,
   BrowserIcon,
   SocialIcon,
@@ -14,7 +14,6 @@ import {
   FinanceIcon,
   OtherIcon,
 } from './Icon';
-import * as BaseIconsNames from './base';
 import * as CountryIconNames from './country';
 import * as BrowserIconNames from './browser';
 import * as SocialIconNames from './social';
@@ -30,26 +29,26 @@ import * as OtherIconNames from './other';
 
 export default {
   title: 'Bamerf/Icon',
-  component: BaseIcon,
-} as ComponentMeta<typeof BaseIcon>;
+  component: CodingIcon,
+} as ComponentMeta<typeof CodingIcon>;
 
-const BaseTemplate: ComponentStory<typeof BaseIcon> = (args) => (
-  <BaseIcon {...args} />
-);
+// const BaseTemplate: ComponentStory<typeof CodingIcon> = (args) => (
+//   <BaseIcon {...args} />
+// );
 
-export const BaseIcons = BaseTemplate.bind({});
-BaseIcons.args = {
-  name: 'Activity',
-  size: 64,
-  color: 'black',
-};
+// export const BaseIcons = BaseTemplate.bind({});
+// BaseIcons.args = {
+//   name: 'Activity',
+//   size: 64,
+//   color: 'black',
+// };
 
-BaseIcons.argTypes = {
-  name: {
-    options: Object.keys(BaseIconsNames),
-    control: { type: 'select' },
-  },
-};
+// BaseIcons.argTypes = {
+//   name: {
+//     options: Object.keys(BaseIconsNames),
+//     control: { type: 'select' },
+//   },
+// };
 
 const CountryTemplate: ComponentStory<typeof CountryIcon> = (args) => (
   <CountryIcon {...args} />

@@ -1,6 +1,6 @@
 import type { FC } from 'react';
 import type {
-  BaseProps,
+  // BaseProps,
   CountryProps,
   BrowserProps,
   SocialProps,
@@ -28,10 +28,10 @@ import * as MusicIcons from './music';
 import * as FinanceIcons from './finance';
 import * as OtherIcons from './other';
 
-export const BaseIcon: FC<BaseProps> = ({ name, size, color }) => {
-  const Component = BaseIcons[name];
-  return <Component size={size} color={color} />;
-};
+// export const BaseIcon: FC<BaseProps> = ({ name, size, color }) => {
+//   const Component = BaseIcons[name];
+//   return <Component size={size} color={color} />;
+// };
 
 export const CountryIcon: FC<CountryProps> = ({ name, size }) => {
   const Component = CountryIcons[name];
