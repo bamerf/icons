@@ -1,3 +1,10 @@
+# [0.3.0](https://github.com/bamerf/icons/compare/v0.2.0...v0.3.0) (2022-12-09)
+
+
+### Features
+
+* **icon:** fix svg attrs ([48888dd](https://github.com/bamerf/icons/commit/48888dd7bacd15e5de38fb0ae8fc30ab4c5fef75))
+
 # [0.2.0](https://github.com/bamerf/icons/compare/v0.1.12...v0.2.0) (2022-12-09)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@bamerf/icons",
-  "version": "1.2.0",
+  "version": "0.3.0",
   "description": "Another icon library",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/bamerf"
