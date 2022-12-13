@@ -1,3 +1,11 @@
+## [0.3.2](https://github.com/bamerf/icons/compare/v0.3.1...v0.3.2) (2022-12-13)
+
+
+### Performance Improvements
+
+* **icon:** add all country icons ([51348fd](https://github.com/bamerf/icons/commit/51348fd90afcecc3929a5810a37be8f3acc78d91))
+* **icon:** add ref ([5fedbb5](https://github.com/bamerf/icons/commit/5fedbb5fcaa5db3caabae599b71f629f9b5f430f))
+
 ## [0.3.1](https://github.com/bamerf/icons/compare/v0.3.0...v0.3.1) (2022-12-13)
 
 
