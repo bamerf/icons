@@ -3,6 +3,7 @@ import type { CommonProps } from '../types';
 
 const KN = forwardRef<SVGSVGElement, CommonProps>(({ size = 24 }, ref) => (
   <svg
+    ref={ref}
     width={size}
     height={size}
     viewBox="0 0 24 24"
